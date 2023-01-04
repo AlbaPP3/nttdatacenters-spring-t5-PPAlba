@@ -1,0 +1,60 @@
+[2023-01-04 21:04:40,937] - [DEBUG] - [org.jboss.logging] - [background-preinit]: Logging Provider: org.jboss.logging.Log4j2LoggerProvider
+[2023-01-04 21:04:40,943] - [INFO] - [org.hibernate.validator.internal.util.Version] - [background-preinit]: HV000001: Hibernate Validator 6.1.6.Final
+[2023-01-04 21:04:40,951] - [DEBUG] - [org.hibernate.validator.internal.xml.config.ValidationXmlParser] - [background-preinit]: Trying to load META-INF/validation.xml for XML based Validator configuration.
+[2023-01-04 21:04:40,952] - [INFO] - [com.nttdatacenters_spring_t5_PPAlba.NTTDataMain] - [restartedMain]: Starting NTTDataMain using Java 17.0.2 on LAPTOP-9O55ONQ2 with PID 18884 (C:\Users\Alba\Desktop\Desarrollo\WORKSPACES\BACKEND\nttdatacenters-spring-t5-PPAlba\target\classes started by Alba in C:\Users\Alba\Desktop\Desarrollo\WORKSPACES\BACKEND\nttdatacenters-spring-t5-PPAlba)
+[2023-01-04 21:04:40,952] - [DEBUG] - [org.hibernate.validator.internal.xml.config.ResourceLoaderHelper] - [background-preinit]: Trying to load META-INF/validation.xml via TCCL
+[2023-01-04 21:04:40,960] - [DEBUG] - [org.hibernate.validator.internal.xml.config.ResourceLoaderHelper] - [background-preinit]: Trying to load META-INF/validation.xml via Hibernate Validator's class loader
+[2023-01-04 21:04:40,960] - [DEBUG] - [com.nttdatacenters_spring_t5_PPAlba.NTTDataMain] - [restartedMain]: Running with Spring Boot v2.4.0-SNAPSHOT, Spring v5.3.1
+[2023-01-04 21:04:40,960] - [DEBUG] - [org.hibernate.validator.internal.xml.config.ValidationXmlParser] - [background-preinit]: No META-INF/validation.xml found. Using annotation based configuration only.
+[2023-01-04 21:04:40,960] - [INFO] - [com.nttdatacenters_spring_t5_PPAlba.NTTDataMain] - [restartedMain]: No active profile set, falling back to default profiles: default
+[2023-01-04 21:04:40,960] - [DEBUG] - [org.springframework.boot.SpringApplication] - [restartedMain]: Loading source class com.nttdatacenters_spring_t5_PPAlba.NTTDataMain
+[2023-01-04 21:04:40,967] - [DEBUG] - [org.hibernate.validator.internal.engine.resolver.TraversableResolvers] - [background-preinit]: Found javax.persistence.Persistence on classpath containing 'getPersistenceUtil'. Assuming JPA 2 environment. Trying to instantiate JPA aware TraversableResolver
+[2023-01-04 21:04:40,967] - [DEBUG] - [org.hibernate.validator.internal.engine.resolver.TraversableResolvers] - [background-preinit]: Instantiated JPA aware TraversableResolver of type org.hibernate.validator.internal.engine.resolver.JPATraversableResolver.
+[2023-01-04 21:04:40,986] - [DEBUG] - [org.springframework.boot.devtools.restart.ChangeableUrls] - [restartedMain]: Matching URLs for reloading : [file:/C:/Users/Alba/Desktop/Desarrollo/WORKSPACES/BACKEND/nttdatacenters-spring-t5-PPAlba/target/classes/]
+[2023-01-04 21:04:40,986] - [DEBUG] - [org.springframework.boot.devtools.settings.DevToolsSettings] - [restartedMain]: Included patterns for restart : []
+[2023-01-04 21:04:40,986] - [DEBUG] - [org.springframework.boot.devtools.settings.DevToolsSettings] - [restartedMain]: Excluded patterns for restart : [/spring-boot-starter-[\w-]+/, /spring-boot/(bin|build|out)/, /spring-boot-starter/(bin|build|out)/, /spring-boot-devtools/(bin|build|out)/, /spring-boot-actuator/(bin|build|out)/, /spring-boot-autoconfigure/(bin|build|out)/]
+[2023-01-04 21:04:40,986] - [INFO] - [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor] - [restartedMain]: Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+[2023-01-04 21:04:40,986] - [INFO] - [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor] - [restartedMain]: For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+[2023-01-04 21:04:40,988] - [DEBUG] - [org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext] - [restartedMain]: Refreshing org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@20ae7d3c
+[2023-01-04 21:04:41,013] - [DEBUG] - [org.hibernate.validator.messageinterpolation.ResourceBundleMessageInterpolator] - [background-preinit]: Loaded expression factory via original TCCL
+[2023-01-04 21:04:41,036] - [DEBUG] - [org.springframework.beans.factory.support.DefaultListableBeanFactory] - [restartedMain]: Creating shared instance of singleton bean 'org.springframework.context.annotation.internalConfigurationAnnotationProcessor'
+[2023-01-04 21:04:41,079] - [DEBUG] - [org.springframework.beans.factory.support.DefaultListableBeanFactory] - [restartedMain]: Creating shared instance of singleton bean 'org.springframework.boot.autoconfigure.internalCachingMetadataReaderFactory'
+[2023-01-04 21:04:41,137] - [DEBUG] - [org.springframework.beans.factory.support.DefaultListableBeanFactory] - [restartedMain]: Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerProcessor'
+[2023-01-04 21:04:41,144] - [DEBUG] - [org.springframework.beans.factory.support.DefaultListableBeanFactory] - [restartedMain]: Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerFactory'
+[2023-01-04 21:04:41,145] - [DEBUG] - [org.springframework.beans.factory.support.DefaultListableBeanFactory] - [restartedMain]: Creating shared instance of singleton bean 'org.springframework.context.annotation.internalAutowiredAnnotationProcessor'
+[2023-01-04 21:04:41,147] - [DEBUG] - [org.springframework.beans.factory.support.DefaultListableBeanFactory] - [restartedMain]: Creating shared instance of singleton bean 'org.springframework.context.annotation.internalCommonAnnotationProcessor'
+[2023-01-04 21:04:41,153] - [DEBUG] - [org.springframework.beans.factory.support.DefaultListableBeanFactory] - [restartedMain]: Creating shared instance of singleton bean 'org.springframework.context.annotation.internalPersistenceAnnotationProcessor'
+[2023-01-04 21:04:41,165] - [DEBUG] - [org.springframework.ui.context.support.UiApplicationContextUtils] - [restartedMain]: Unable to locate ThemeSource with name 'themeSource': using default [org.springframework.ui.context.support.ResourceBundleThemeSource@2d4d2c7f]
+[2023-01-04 21:04:41,168] - [WARN] - [org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext] - [restartedMain]: Exception encountered during context initialization - cancelling refresh attempt: org.springframework.context.ApplicationContextException: Unable to start web server; nested exception is org.springframework.context.ApplicationContextException: Unable to start ServletWebServerApplicationContext due to missing ServletWebServerFactory bean.
+[2023-01-04 21:04:41,181] - [DEBUG] - [org.springframework.boot.devtools.restart.Restarter] - [restartedMain]: Creating new Restarter for thread Thread[main,5,main]
+[2023-01-04 21:04:41,183] - [DEBUG] - [org.springframework.boot.devtools.restart.Restarter] - [restartedMain]: Immediately restarting application
+[2023-01-04 21:04:41,183] - [DEBUG] - [org.springframework.boot.devtools.restart.Restarter] - [restartedMain]: Created RestartClassLoader org.springframework.boot.devtools.restart.classloader.RestartClassLoader@1710b499
+[2023-01-04 21:04:41,183] - [DEBUG] - [org.springframework.boot.devtools.restart.Restarter] - [restartedMain]: Starting application com.nttdatacenters_spring_t5_PPAlba.NTTDataMain with URLs [file:/C:/Users/Alba/Desktop/Desarrollo/WORKSPACES/BACKEND/nttdatacenters-spring-t5-PPAlba/target/classes/]
+[2023-01-04 21:04:41,243] - [DEBUG] - [org.hibernate.validator.internal.engine.ValidatorFactoryConfigurationHelper] - [background-preinit]: HV000252: Using org.hibernate.validator.internal.engine.DefaultPropertyNodeNameProvider as property node name provider.
+[2023-01-04 21:04:41,250] - [DEBUG] - [org.hibernate.validator.internal.engine.ValidatorFactoryConfigurationHelper] - [background-preinit]: HV000234: Using org.hibernate.validator.messageinterpolation.ResourceBundleMessageInterpolator as ValidatorFactory-scoped message interpolator.
+[2023-01-04 21:04:41,251] - [DEBUG] - [org.hibernate.validator.internal.engine.ValidatorFactoryConfigurationHelper] - [background-preinit]: HV000234: Using org.hibernate.validator.internal.engine.resolver.JPATraversableResolver as ValidatorFactory-scoped traversable resolver.
+[2023-01-04 21:04:41,251] - [DEBUG] - [org.hibernate.validator.internal.engine.ValidatorFactoryConfigurationHelper] - [background-preinit]: HV000234: Using org.hibernate.validator.internal.util.ExecutableParameterNameProvider as ValidatorFactory-scoped parameter name provider.
+[2023-01-04 21:04:41,251] - [DEBUG] - [org.hibernate.validator.internal.engine.ValidatorFactoryConfigurationHelper] - [background-preinit]: HV000234: Using org.hibernate.validator.internal.engine.DefaultClockProvider as ValidatorFactory-scoped clock provider.
+[2023-01-04 21:04:41,251] - [DEBUG] - [org.hibernate.validator.internal.engine.ValidatorFactoryConfigurationHelper] - [background-preinit]: HV000234: Using org.hibernate.validator.internal.engine.scripting.DefaultScriptEvaluatorFactory as ValidatorFactory-scoped script evaluator factory.
+[2023-01-04 21:04:41,583] - [ERROR] - [org.springframework.boot.SpringApplication] - [restartedMain]: Application run failed
+org.springframework.context.ApplicationContextException: Unable to start web server; nested exception is org.springframework.context.ApplicationContextException: Unable to start ServletWebServerApplicationContext due to missing ServletWebServerFactory bean.
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.onRefresh(ServletWebServerApplicationContext.java:162)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:582)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:144)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:767)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:759)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:426)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:326)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1309)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1298)
+	at com.nttdatacenters_spring_t5_PPAlba.NTTDataMain.main(NTTDataMain.java:13)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.springframework.boot.devtools.restart.RestartLauncher.run(RestartLauncher.java:49)
+Caused by: org.springframework.context.ApplicationContextException: Unable to start ServletWebServerApplicationContext due to missing ServletWebServerFactory bean.
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.getWebServerFactory(ServletWebServerApplicationContext.java:209)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.createWebServer(ServletWebServerApplicationContext.java:179)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.onRefresh(ServletWebServerApplicationContext.java:159)
+	... 14 common frames omitted
